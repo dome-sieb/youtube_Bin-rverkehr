@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95f312ac-31d0-4a75-aa47-8f981716a0b2" name="Changes" comment="Tkinter eingefügt">
-      <change afterPath="$PROJECT_DIR$/ttk_Widgets.py" afterDir="false" />
+    <list default="true" id="95f312ac-31d0-4a75-aa47-8f981716a0b2" name="Changes" comment="TTK Widgets eingefügt und auskommentiert">
+      <change afterPath="$PROJECT_DIR$/IMG_0046.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ttk_Widgets.py" beforeDir="false" afterPath="$PROJECT_DIR$/ttk_Widgets.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +58,15 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Youutbe_binarverkehr" />
@@ -102,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722599405355</updated>
-      <workItem from="1722599407918" duration="3444000" />
+      <workItem from="1722599407918" duration="4065000" />
     </task>
     <task id="LOCAL-00001" summary="Tkinter eingefügt">
       <option name="closed" value="true" />
@@ -112,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722601567251</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="TTK Widgets eingefügt und auskommentiert">
+      <option name="closed" value="true" />
+      <created>1722603718340</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722603718340</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,10 +134,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tkinter eingefügt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tkinter eingefügt" />
+    <MESSAGE value="TTK Widgets eingefügt und auskommentiert" />
+    <option name="LAST_COMMIT_MESSAGE" value="TTK Widgets eingefügt und auskommentiert" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Youutbe_binarverkehr$main.coverage" NAME="main Coverage Results" MODIFIED="1722603296073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Youutbe_binarverkehr$ttk_Widgets.coverage" NAME="ttk_Widgets Coverage Results" MODIFIED="1722603662838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Youutbe_binarverkehr$ttk_Widgets.coverage" NAME="ttk_Widgets Coverage Results" MODIFIED="1722604247686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
